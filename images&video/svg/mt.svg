@@ -1,0 +1,22 @@
+<svg  xmlns="http://www.w3.org/2000/svg"  width="547" height="449" viewBox="0 0 547 449">
+  <g id="pic" transform="translate(0 -64)">
+    <rect id="Rectangle" width="547" height="2" transform="translate(0 171)" fill="#4d3c12"/>
+    <rect id="Rectangle-2" data-name="Rectangle" width="547" height="2" transform="translate(0 299)" fill="#4d3c12"/>
+    <rect id="Rectangle-3" data-name="Rectangle" width="547" height="2" transform="translate(0 419)" fill="#4d3c12"/>
+    <rect id="Rectangle-4" data-name="Rectangle" width="2" height="449" transform="translate(93 64)" fill="#4d3c12"/>
+    <rect id="Rectangle-5" data-name="Rectangle" width="2" height="449" transform="translate(181 64)" fill="#4d3c12"/>
+    <rect id="Rectangle-6" data-name="Rectangle" width="2" height="449" transform="translate(365 64)" fill="#4d3c12"/>
+    <rect id="Rectangle-7" data-name="Rectangle" width="2" height="449" transform="translate(461 64)" fill="#4d3c12"/>
+    <g id="Rectangle-8" data-name="Rectangle" transform="translate(0 64)" fill="none" stroke="#f1c761" stroke-miterlimit="10" stroke-width="4">
+      <rect width="547" height="449" rx="16" stroke="none"/>
+      <rect x="2" y="2" width="543" height="445" rx="14" fill="none"/>
+    </g>
+    <rect id="Rectangle-9" data-name="Rectangle" width="202" height="72" rx="8" transform="translate(42 119)" fill="#4282c0"/>
+    <path id="Path_2" data-name="Path 2" d="M0,311.31l66.235-58.964L156.1,159.592,248.49,255.67,339.332,0l99.535,151.556,49.746,150.285" transform="translate(26.574 175.78)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+    <circle id="Oval" cx="37" cy="37" r="37" transform="translate(56 389)" fill="#f1c761"/>
+    <circle id="Oval-2" data-name="Oval" cx="14" cy="14" r="14" transform="translate(169 322)" fill="#1e1e1e"/>
+    <circle id="Oval-3" data-name="Oval" cx="30" cy="30" r="30" transform="translate(244 401)" fill="#f28c60"/>
+    <circle id="Oval-4" data-name="Oval" cx="20" cy="20" r="20" transform="translate(346 151)" fill="#f28c60"/>
+    <circle id="Oval-5" data-name="Oval" cx="64.5" cy="64.5" r="64.5" transform="translate(402 260)" fill="#f28c60"/>
+  </g>
+</svg>

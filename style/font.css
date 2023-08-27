@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Jost-Bold";
+  src: url(../fonts/jost/Jost-Bold.ttf) format(truetype);
+}
+@font-face {
+  font-family: "Jost";
+  src: url(../fonts/jost/Jost-Regular.ttf) format(truetype);
+}

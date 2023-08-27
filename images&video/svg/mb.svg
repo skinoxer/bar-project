@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="568.64" height="428" viewBox="0 0 568.64 428">
+  <g id="pic" transform="translate(2.64 -67)">
+    <path id="Path_3" data-name="Path 3" d="M56.652,0H8A8,8,0,0,0,0,8V414a8,8,0,0,0,8,8H561.589" transform="translate(0.36 70)" fill="none" stroke="#f1c761" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
+    <rect id="Rectangle" width="265" height="38" rx="8" transform="translate(37 111)" fill="#f28c60"/>
+    <g id="Rectangle-2" data-name="Rectangle" transform="translate(37 186)" fill="none" stroke="#f1c761" stroke-miterlimit="10" stroke-width="6">
+      <rect width="417" height="38" rx="8" stroke="none"/>
+      <rect x="3" y="3" width="411" height="32" rx="5" fill="none"/>
+    </g>
+    <rect id="Rectangle-3" data-name="Rectangle" width="529" height="38" rx="8" transform="translate(37 261)" fill="#4282c0"/>
+    <rect id="Rectangle-4" data-name="Rectangle" width="449" height="38" rx="8" transform="translate(37 337)" fill="#f1c761"/>
+    <g id="Rectangle-5" data-name="Rectangle" transform="translate(37 413)" fill="none" stroke="#f1c761" stroke-miterlimit="10" stroke-width="6">
+      <rect width="297" height="38" rx="8" stroke="none"/>
+      <rect x="3" y="3" width="291" height="32" rx="5" fill="none"/>
+    </g>
+    <path id="Triangle" d="M26.5,0,53,36H0Z" transform="translate(339 157) rotate(-90)" fill="#f1c761"/>
+    <path id="Triangle-2" data-name="Triangle" d="M26.5,0,53,36H0Z" transform="translate(395 157) rotate(-90)" fill="#4282c0"/>
+    <path id="Triangle-3" data-name="Triangle" d="M26.5,0,53,36H0Z" transform="translate(451 157) rotate(-90)" fill="#f28c60"/>
+    <path id="Path_4" data-name="Path 4" d="M0,73.955S22.927,31.349,61.5,19.3c17.9-5.591,32.948,23.124,51.449,19.379,27.5-5.566,26.594-44.253,40.551-38,25.408,11.384,38.18,73.273,38.18,73.273Z" transform="translate(364 415)" fill="#f28c60"/>
+  </g>
+</svg>
